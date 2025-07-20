@@ -41,7 +41,6 @@
 | 🔥 Project | 🚀 Description |
 |-----------|----------------|
 | **GenAI Image Generator** | Django + LangGraph app for real-time prompt-to-image generation using Stability AI APIs |
-| **DOCX to Web UI Converter** | Reads `.docx` files, extracts structure and styles, and auto-generates responsive HTML layouts |
 | **LLM API Orchestrator** | Custom LangGraph pipeline to chain reasoning, rewriting, and image generation tasks via Python |
 | **Clean REST API Boilerplate** | Modular Django REST framework starter for backend APIs in AI apps |
 
