@@ -67,7 +67,7 @@
 
 ### 🤖 Connect With Me
 
-- 💬 [LinkedIn]([(https://www.linkedin.com/in/aryan-dhull-6aa214229/)])
+- 💬 [LinkedIn](https://www.linkedin.com/in/aryan-dhull-6aa214229/)
 - 🧪 Ask me about Python, Django, GenAI, LangGraph, and LLM apps
 
 ---
